@@ -11,6 +11,7 @@ logo = '''
                        .-------------.
                       /_______________\\
 '''
+print(logo)
 def auction():
     string=input("what is your name")
     bid=int(input("what is your bid:$"))
